@@ -6,3 +6,10 @@ export const routerPaths = {
   ROOT: '/',
   VOTE: '/vote',
 };
+
+export const apiPaths = {
+  LOGIN: '/login',
+  NOMINATIONS: '/nominations',
+  REGISTER: '/register',
+  VOTE: '/vote',
+};
