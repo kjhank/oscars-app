@@ -3,4 +3,5 @@ node_modules
 dist
 dist-ssr
 *.local
+vite.config.ts
 node_modules/*
